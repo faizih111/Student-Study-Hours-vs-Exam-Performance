@@ -30,5 +30,5 @@ This project applies basic **Machine Learning concepts** learned from the W3Scho
 ## 🎯 Goal
 To practice **fundamental Machine Learning techniques** using only concepts introduced in the W3Schools tutorial, and visualize how different study habits relate to exam performance.
 
-Linear Regression Model: LinearRegression()
+
 
